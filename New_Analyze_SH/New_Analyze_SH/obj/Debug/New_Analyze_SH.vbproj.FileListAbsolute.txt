@@ -1,0 +1,22 @@
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\bin\Debug\New_Analyze_SH.exe.config
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\bin\Debug\New_Analyze_SH.exe
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\bin\Debug\New_Analyze_SH.pdb
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\bin\Debug\New_Analyze_SH.xml
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\bin\Debug\MJNFitting.dll
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\bin\Debug\MJNFitting.pdb
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\bin\Debug\MJNFitting.xml
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\obj\Debug\New_Analyze_SH.Resources.resources
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\obj\Debug\New_Analyze_SH.vbproj.GenerateResource.Cache
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\obj\Debug\New_Analyze_SH.exe
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\obj\Debug\New_Analyze_SH.xml
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\obj\Debug\New_Analyze_SH.pdb
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\bin\Debug\New_Analyze_SH.exe.manifest
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\bin\Debug\New_Analyze_SH.application
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\obj\Debug\New_Analyze_SH.TrustInfo.xml
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\obj\Debug\New_Analyze_SH.exe.manifest
+C:\Users\mnystrom\Documents\Visual Studio 2008\Projects\New_Analyze_SH\New_Analyze_SH\obj\Debug\New_Analyze_SH.application
+C:\Users\mnystrom\Source\Repos\New_Analyze_SH\New_Analyze_SH\bin\Debug\New_Analyze_SH.exe.config
+C:\Users\mnystrom\Source\Repos\New_Analyze_SH\New_Analyze_SH\obj\Debug\New_Analyze_SH.exe
+C:\Users\mnystrom\Source\Repos\New_Analyze_SH\New_Analyze_SH\obj\Debug\New_Analyze_SH.xml
+C:\Users\mnystrom\Source\Repos\New_Analyze_SH\New_Analyze_SH\obj\Debug\New_Analyze_SH.pdb
